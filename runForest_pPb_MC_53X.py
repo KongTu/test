@@ -2,6 +2,8 @@
 # Run the foresting configuration on PbPb in CMSSW_5_3_X, using the new HF/Voronoi jets
 # Author: Alex Barbieri
 # Date: 2013-10-15
+#hi test git
+
 
 hiTrackQuality = "highPurity"              # iterative tracks
 #hiTrackQuality = "highPuritySetWithPV"    # calo-matched tracks
